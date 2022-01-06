@@ -1,0 +1,2 @@
+Untitled
+how to write text file in python
